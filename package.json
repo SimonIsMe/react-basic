@@ -1,0 +1,24 @@
+{
+  "name": "react-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:browsersync": "node_modules/.bin/browser-sync start --server --files *.css *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonIsMe/react-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonIsMe/react-basic/issues"
+  },
+  "homepage": "https://github.com/SimonIsMe/react-basic#readme",
+  "dependencies": {
+    "babel-standalone": "^6.26.0",
+    "browser-sync": "^2.24.5"
+  }
+}
